@@ -1,5 +1,5 @@
 # nest-starter
- 
+
 > A starter template for [Nest](https://github.com/nestjs/nest) with TypeScript used by DAOT projects
 
 ## Installation
